@@ -1,0 +1,17 @@
+
+J
+java:S3740#"/Provide the parametrized type for this generic.(µé·¯ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÇÕ°ıÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.concurrent.Future'.(á¬øíıÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿá­ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿíó½ùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(’€™u
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+_
+java:S2147"DCombine this catch with the one at line 28, which has the same body.(åşŒóùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¹úˆùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤úæüüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ‹ˆ¿øÿÿÿÿ

@@ -1,0 +1,35 @@
+
+E
+java:S1481%"(Remove this unused "age" local variable.(Ûº´ş8Ü»àÍñ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Şÿ8Òã”Íñ.
+_
+java:S1854!"=Remove this useless assignment to local variable "stringMap".(ÔÃ¬øÿÿÿÿ8½”¨Íñ.
+K
+java:S3740#"/Provide the parametrized type for this generic.(ó–Ğ8½ÕÔÍñ.
+I
+java:S1612%",Replace this lambda with a method reference.(Ûº´ş8ú×Íñ.
+T
+java:S1854%"7Remove this useless assignment to local variable "age".(Ûº´ş8Ü»àÍñ.
+I
+java:S1602",Remove useless curly braces around statement(Şÿ8Òã”Íñ.
+I
+java:S1612",Replace this lambda with a method reference.(ÈÔÄ8ÒÃŒÍñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú¾¬ûÿÿÿÿ8µ¯‰Íñ.
+H
+java:S1612#",Replace this lambda with a method reference.(ó–Ğ8½ÕÔÍñ.
+K
+java:S1481'")Remove this unused "user" local variable.(ˆÓşéûÿÿÿÿ8œ‹áÍñ.
+N
+java:S1612",Replace this lambda with a method reference.(’Àşøÿÿÿÿ8‰ˆÍñ.
+I
+java:S1612$",Replace this lambda with a method reference.(¯«ÂÙ8ãŠÄÍñ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùÇÕ°ıÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’Àşøÿÿÿÿ8‰ˆÍñ.
+P
+java:S1481!".Remove this unused "stringMap" local variable.(ÔÃ¬øÿÿÿÿ8¶µ¨Íñ.
+Z
+java:S1854'"8Remove this useless assignment to local variable "user".(ˆÓşéûÿÿÿÿ8œ‹áÍñ.
+U
+java:S1854#"9Remove this useless assignment to local variable "list1".(ó–Ğ8½ÕÔÍñ.
+F
+java:S1481#"*Remove this unused "list1" local variable.(ó–Ğ8½ÕÔÍñ.

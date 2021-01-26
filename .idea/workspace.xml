@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae50fe52-c33f-4b11-abc1-57a0e123767f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/AdapterModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/CirleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterfacerGoF23/CirleFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/DrawShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterfacerGoF23/DrawShape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/FacadeModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterfacerGoF23/Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/GetApple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/MethodFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterfacerGoF23/MethodFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/SendApple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/ShapeFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterfacerGoF23/ShapeFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/SimpleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterfacerGoF23/SimpleFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/Square2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterfacerGoF23/Square2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/SquareFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterfacerGoF23/SquareFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/cirle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterfacerGoF23/cirle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/cirle2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterfacerGoF23/cirle2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/draw.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterfacerGoF23/draw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/sendApps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/square.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterfacerGoF23/square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InterfacerGoF23/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/InterfacerGoF23/test.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/pineappleboss/GOF23" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\program\idea\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l8wLESgqLZsNeGhWid8j3Fx8Ec" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.TestLamda">
+    <configuration name="TestFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaseKnownledge.TestFuture" />
+      <module name="GOF23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaseKnownledge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaseKnownledge.TestIo" />
+      <module name="GOF23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaseKnownledge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLamda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaseKnownledge.TestLamda" />
+      <module name="GOF23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaseKnownledge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThreadPools" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaseKnownledge.TestThreadPools" />
+      <module name="GOF23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaseKnownledge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaseKnownledge.TestThreads" />
+      <module name="GOF23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaseKnownledge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestLamda" />
+        <item itemvalue="Application.TestIo" />
+        <item itemvalue="Application.TestFuture" />
+        <item itemvalue="Application.TestThreadPools" />
+        <item itemvalue="Application.TestThreads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae50fe52-c33f-4b11-abc1-57a0e123767f" name="Default Changelist" comment="" />
+      <created>1606991968487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606991968487</updated>
+    </task>
+    <task id="LOCAL-00001" summary="工厂模式，方法工厂模式">
+      <created>1607329336862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607329336862</updated>
+    </task>
+    <task id="LOCAL-00002" summary="适配器模式，外观模式，单例模式">
+      <created>1607337431786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607337431786</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="工厂模式，方法工厂模式" />
+    <MESSAGE value="适配器模式，外观模式，单例模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="适配器模式，外观模式，单例模式" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="160" key="#Plugins" timestamp="1611020772862">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="160" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1611020772862" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1610949339808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610949339808" />
+    <state x="673" y="333" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1610958445331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="673" y="333" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610958445331" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1611046418959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611046418959" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1611046418959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611046418959" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1611046418959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611046418959" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1611046418959">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611046418959" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1610605804506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610605804506" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1610605804506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610605804506" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1610605804506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610605804506" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1610605804506">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610605804506" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607337435231">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607337435231" />
+    <state x="567" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610958449695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="567" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610958449695" />
+    <state x="661" y="252" width="598" height="536" key="find.popup" timestamp="1610523879483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="252" width="598" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610523879483" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611020624365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611020624365" />
+  </component>
+</project>
